@@ -1,7 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=6,9,10,2&text=Ayush%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend-Focused%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Building%20Scalable%20Systems&descSize=18&descAlignY=55"/>
 </p>
-
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=illuminatiAyush">
+    <img src="https://komarev.com/ghpvc/?username=illuminatiAyush&label=Profile%20views&color=00FFFF&style=flat-square" alt="illuminatiAyush's profile views" />
+  </a>
+</p>
 
 
 ---
