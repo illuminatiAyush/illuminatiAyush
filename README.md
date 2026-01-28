@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ayush%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Developer%20%7C%20Problem%20Solving%20%7C%20Building%20Real%20World%20Innovative%20Solutions&descSize=18&descAlignY=55&textBg=false"/>
-<div><h2>README Optimisation in Progress..</h2></div>
+<div><h2 align = "center">README Optimisation in Progress..</h2></div>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=illuminatiAyush">
     <img src="https://komarev.com/ghpvc/?username=illuminatiAyush&label=Profile%20views&color=00FFFF&style=flat-square" alt="illuminatiAyush's profile views" />
