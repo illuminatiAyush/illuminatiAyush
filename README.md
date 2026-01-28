@@ -70,7 +70,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/flames.gif" alt="Bottom Line" width="100%" />
 </div>
-height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRscjYwZzFpODFxdTYyOWgwY2luY2x1NW5haml2aXlkeWY3Z3hyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tXwHTbQuyjo1q/giphy.gif" />
+
 
 ###
 
