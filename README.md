@@ -3,7 +3,6 @@
 </p>
 <div align="center">
 
-
   <pre>
 readme_status = {
     "status": "in progress",
