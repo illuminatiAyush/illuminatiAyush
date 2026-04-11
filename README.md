@@ -6,8 +6,6 @@
   <pre>
 readme_status = {
     "status": "in progress",
-
-    
     "focus": ["structure", "clarity", "project highlights"],
     "last_update": "ongoing"
 }
