@@ -26,7 +26,7 @@ print("README optimization underway")
 
 
 ## 🎯 Current Focus
-<ul> <li><b>Backend Engineering</b> (REST APIs, Authentication, Databases)</li> <li><b>Data Structures & Algorithms</b> (Problem-first approach)</li> <li><b>Writing Clean, Maintainable Code</b></li> <li><b>Debugging & Understanding Edge Cases</b></li> <li><b>Building Real-world, Resume-worthy Projects</b></li> </ul>s
+<ul> <li><b>Backend Engineering</b> (REST APIs, Authentication, Databases)</li> <li><b>Data Structures & Algorithms</b> (Problem-first approach)</li> <li><b>Writing Clean, Maintainable Code</b></li> <li><b>Debugging & Understanding Edge Cases</b></li> <li><b>Building Real-world, Resume-worthy Projects</b></li> </ul>
 
 ---
 
