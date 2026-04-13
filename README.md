@@ -20,24 +20,26 @@ print("README optimization underway")
 
 ## 👋 About Me
 
-I’m **Ayush**, a backend-focused developer with a strong interest in **data structures, problem solving, and scalable system design**.  
-I enjoy turning real-world problems into clean, maintainable solutions and continuously improving my fundamentals.
+I’m Ayush — a disciplined, growth-driven developer focused on becoming top-tier in backend engineering and problem solving.
+Right now, I’m in my build phase — strengthening fundamentals, shipping projects, and pushing consistency every single day.
 
-- 🔧 Currently building backend projects with **Node.js & Express**
-- 📚 Grinding **DSA** consistently (problem-first approach)
-- 🧠 Learning **how systems actually scale**, not just how to code
-- 🤝 Open to collaboration on **meaningful beginner–intermediate projects**
+I don’t just want to write code — I want to understand systems deeply and build things that actually matter.
+
+🔧 Building real-world backend systems using Node.js, Express & databases
+📚 Consistently grinding DSA to sharpen logic and problem-solving speed
+🧠 Learning how scalable systems work behind the scenes
+⚡ Focused on discipline, consistency, and execution over motivation
+🤝 Open to collaborating on impactful beginner–intermediate projects
 
 ---
 
 
 ## 🎯 Current Focus
-
-- Backend Engineering (REST APIs, Auth, Databases)
-- Data Structures & Algorithms
-- Clean Code & Debugging
-- Open Source Fundamentals
-- Real-world project building
+Backend Engineering (REST APIs, Authentication, Databases)
+Data Structures & Algorithms (Problem-first approach)
+Writing Clean, Maintainable Code
+Debugging & Understanding Edge Cases
+Building Real-world, Resume-worthy Projects
 
 ---
 
