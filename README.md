@@ -19,27 +19,14 @@ print("README optimization underway")
 ---
 
 ## 👋 About Me
+<p> I’m <b>Ayush</b> — a disciplined, growth-driven developer focused on becoming <b>top-tier in backend engineering and problem solving</b>.<br> Right now, I’m in my <b>build phase</b> — strengthening fundamentals, shipping projects, and pushing consistency every single day. </p> <p> I don’t just want to write code — I want to <b>understand systems deeply</b> and build things that actually matter. </p> <ul> <li>🔧 Building real-world backend systems using <b>Node.js, Express & databases</b></li> <li>📚 Consistently grinding <b>DSA</b> to sharpen logic and problem-solving speed</li> <li>🧠 Learning how <b>scalable systems</b> work behind the scenes</li> <li>⚡ Focused on <b>discipline, consistency, and execution</b> over motivation</li> <li>🤝 Open to collaborating on <b>impactful beginner–intermediate projects</b></li> </ul>
 
-I’m Ayush — a disciplined, growth-driven developer focused on becoming top-tier in backend engineering and problem solving.
-Right now, I’m in my build phase — strengthening fundamentals, shipping projects, and pushing consistency every single day.
-
-I don’t just want to write code — I want to understand systems deeply and build things that actually matter.
-
-🔧 Building real-world backend systems using Node.js, Express & databases
-📚 Consistently grinding DSA to sharpen logic and problem-solving speed
-🧠 Learning how scalable systems work behind the scenes
-⚡ Focused on discipline, consistency, and execution over motivation
-🤝 Open to collaborating on impactful beginner–intermediate projects
 
 ---
 
 
 ## 🎯 Current Focus
-Backend Engineering (REST APIs, Authentication, Databases)
-Data Structures & Algorithms (Problem-first approach)
-Writing Clean, Maintainable Code
-Debugging & Understanding Edge Cases
-Building Real-world, Resume-worthy Projects
+<ul> <li><b>Backend Engineering</b> (REST APIs, Authentication, Databases)</li> <li><b>Data Structures & Algorithms</b> (Problem-first approach)</li> <li><b>Writing Clean, Maintainable Code</b></li> <li><b>Debugging & Understanding Edge Cases</b></li> <li><b>Building Real-world, Resume-worthy Projects</b></li> </ul>s
 
 ---
 
