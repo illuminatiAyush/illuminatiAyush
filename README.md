@@ -30,6 +30,16 @@ print("README optimization underway")
 
 ---
 
+## 🚀 Projects
+🧠 IntelliX — Smart Academic Management System
+<p> A backend-driven system designed to streamline <b>student management, attendance tracking, and performance analytics</b> for institutions. Built with a focus on <b>scalability, clean architecture, and real-world usability</b>. </p> <ul> <li>⚙️ Designed RESTful APIs for managing students, batches, and attendance</li> <li>📊 Built analytics system for tracking individual & batch performance</li> <li>🔐 Implemented secure authentication & role-based access (Admin/Student)</li> <li>🧩 Structured backend for modularity and easy scalability</li> </ul> <p> <b>Tech Stack:</b> Node.js, Express, MongoDB <br> <a href="#">🔗 View Project</a> </p>
+🤖 Evalix AI — AI-powered Evaluation Platform
+<p> An intelligent evaluation system that helps educators <b>analyze tests, assignments, and student performance</b> efficiently using automation. Focused on building a <b>clean admin workflow and scalable backend</b>. </p> <ul> <li>📝 Designed system to manage tests, submissions, and evaluations</li> <li>📈 Built analytics for performance insights</li> <li>⚡ Optimized backend flow for handling multiple students and datasets</li> <li>🎯 Focused on real-world usability for teachers and institutions</li> </ul> <p> <b>Tech Stack:</b> Node.js, Express, AI APIs (planned), MongoDB <br> <a href="#">🔗 View Project</a> </p>
+📷 QR Attendance System — Smart Presence Tracking
+<p> A system that uses <b>QR codes to automate attendance tracking</b>, reducing manual effort and improving accuracy. Built and presented as a working prototype in an academic exhibition. </p> <ul> <li>📱 QR-based attendance marking system</li> <li>⚡ Real-time data capture and storage</li> <li>🧠 Focused on solving real-world inefficiencies in attendance systems</li> <li>🏆 Developed and showcased in a competitive environment</li> </ul> <p> <b>Tech Stack:</b> (Custom logic + backend integration) <br> <a href="#">🔗 View Project</a> </p>
+🌆 UrbanCompany (Concept Project)
+<p> A platform inspired by real-world service marketplaces, focused on <b>connecting users with local service providers</b>. Designed with emphasis on <b>scalable backend structure and service flow</b>. </p> <ul> <li>🧩 Designed service booking & provider management system</li> <li>🔐 Planned authentication and user-role flows</li> <li>📦 Focused on structuring backend for real-world scale</li> </ul> <p> <b>Tech Stack:</b> Node.js, Express (Planned Architecture) <br> <a href="#">🔗 View Project</a> </p>
+
 ## 🛠 Tech Stack
 
 ### Languages
