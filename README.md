@@ -9,7 +9,6 @@ readme_status = {
     "focus": ["structure", "clarity", "project highlights"],
     "last_update": "ongoing"
 }
-
 print("README optimization underway")
   </pre>
 </div>
