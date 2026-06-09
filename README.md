@@ -3,14 +3,14 @@
 </p>
 <div align="center">
 
-  <pre>
+ <!-- <pre>
 readme_status = {
     "status": "in progress...",
     "focus": ["structure", "clarity", "project highlights"],
     "last_update": "ongoing"
 }
 print("README optimization underway")
-  </pre>
+  </pre>-->
 </div>
 
 
