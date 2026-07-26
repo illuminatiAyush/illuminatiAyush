@@ -150,9 +150,8 @@ Next.js • TypeScript • Tailwind CSS • Supabase • FastAPI • TensorFlow/
 > you put in the work, you get the results. it's that simple.
 
 ### Github Trophies
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=illuminatiAyush&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 ###
 
