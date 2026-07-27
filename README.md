@@ -104,14 +104,9 @@ Next.js • TypeScript • Tailwind CSS • Supabase • FastAPI • TensorFlow/
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=illuminatiAyush&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img src="https://streak-stats.demolab.com/?user=illuminatiAyush&theme=radical&hide_border=true" width="48%"/>
-</p>
+<img height="180em" width="386" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=illuminatiAyush&layout=compact&theme=tokyonight"/> <br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=illuminatiAyush&theme=radical&radius=8"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=illuminatiAyush&theme=radical&radius=8"/>
-</p>
-
-<p align="center">
-  <img height="180em" width="386" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=illuminatiAyush&layout=compact&theme=tokyonight"/> <br>
 </p>
 
 ---
