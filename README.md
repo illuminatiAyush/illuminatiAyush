@@ -2,7 +2,7 @@
 <tr>
 <td width="55%" valign="middle">
 
-# Hi, I'm Ayush Singh 👋
+# Hello. I'm Ayush Singh.
 
 ###  DSA • System Design • Backend Developer
 
@@ -39,19 +39,19 @@ print("README optimization underway")
 
 ---
 
-## 👋 About Me
+## About Me
 <p> I’m <b>Ayush</b> a disciplined, growth-driven developer focused on becoming <b>top-tier in backend engineering and problem solving</b>.<br> Right now, I’m in my <b>build phase</b> strengthening fundamentals, shipping projects, and pushing consistency every single day. </p> <p> I don’t just want to write code, I want to <b>understand systems deeply</b> and build things that actually matter. </p> <ul> <li>🔧 Building real-world backend systems using <b>Node.js, Express & databases</b></li> <li> Consistently grinding <b>DSA</b> to sharpen logic and problem-solving speed</li> <li> Learning how <b>scalable systems</b> work behind the scenes</li> <li> Focused on <b>discipline, consistency, and execution</b> over motivation</li> <li> Open to collaborating on <b>impactful beginner–intermediate projects</b></li> </ul>
 
 
 ---
 
 
-## 🎯 Current Focus
+## Current Focus
 <ul> <li><b>Backend Engineering</b> (REST APIs, Authentication, Databases)</li> <li><b>Data Structures & Algorithms</b> (Problem-first approach)</li> <li><b>Writing Clean, Maintainable Code</b></li> <li><b>Debugging & Understanding Edge Cases</b></li> <li><b>Building Real-world, Resume-worthy Projects</b></li> </ul>
 
 ---
 
-## 🚀 Projects
+## ⭐ Projects
 🧠 IntelliX — Smart Academic Management System
 <p> A backend-driven system designed to streamline <b>student management, attendance tracking, and performance analytics</b> for institutions. Built with a focus on <b>scalability, clean architecture, and real-world usability</b>. </p> <ul> <li> Designed RESTful APIs for managing students, batches, and attendance</li> <li> Built analytics system for tracking individual & batch performance</li> <li> Implemented secure authentication & role-based access (Admin/Student)</li> <li> Structured backend for modularity and easy scalability</li> </ul> <p> <b>Tech Stack:</b> Node.js, Express, MongoDB <br> <a href="https://intelli-x.vercel.app/">🔗 View Project</a> </p>
 🤖 Evalix AI — AI-powered Evaluation Platform
