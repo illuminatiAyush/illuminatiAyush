@@ -132,6 +132,8 @@ Next.js • TypeScript • Tailwind CSS • Supabase • FastAPI • TensorFlow/
 ---
 
 <p align="center">
+  <a href="https://github.com/illuminatiAyush?tab=repositories&sort=stargazers" style="text-decoration: none;"><img alt="Total Stars" title="Total Stars on GitHub" src="https://img.shields.io/github/stars/illuminatiAyush?style=for-the-badge&color=FF69B4&label=Stars&logo=github&logoColor=white&labelColor=E91E63" /></a>&nbsp;
+  <a href="https://github.com/illuminatiAyush?tab=followers" style="text-decoration: none;"><img alt="GitHub Followers" title="Follow Me on GitHub" src="https://img.shields.io/github/followers/illuminatiAyush?style=for-the-badge&color=BA68C8&label=Followers&logo=github&logoColor=white&labelColor=8E24AA" /></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=illuminatiAyush&label=Profile%20Views&color=00FFFF&style=flat-square" />
 </p>
 
