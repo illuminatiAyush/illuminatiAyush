@@ -1,7 +1,28 @@
-<p align="center">
+<table>
+<tr>
+<td width="55%" valign="middle">
+
+# Hi, I'm Ayush Singh 👋
+
+###  DSA • System Design • Backend Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=450&lines=Building+AI-powered+Applications;Full-Stack+Developer;Hackathon+Enthusiast;Always+Learning+Something+New" />
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350"/>
+
+</td>
+</tr>
+</table>
+
+
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=6,9,10,10&text=Ayush%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend-Focused%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Building%20Scalable%20Systems&descSize=18&descAlignY=55"/>
 </p>
-<div align="center">
+<div align="center"></div> -->
 
  <!-- <pre>
 readme_status = {
@@ -11,10 +32,10 @@ readme_status = {
 }
 print("README optimization underway")
   </pre>-->
-</div>
 
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
+<!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" /> -->
 
 ---
 
