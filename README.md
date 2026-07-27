@@ -2,7 +2,7 @@
 <tr>
 <td width="55%" valign="middle">
 
-# Hello. I'm Ayush Singh.
+# Hello, I'm Ayush Singh.
 
 ###  DSA • System Design • Backend Developer
 
