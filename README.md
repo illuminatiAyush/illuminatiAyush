@@ -48,48 +48,14 @@ I'm currently deepening my expertise in **Backend Engineering**, **Data Structur
 ---
 
 ## ⭐ Projects
-🧠 IntelliX — Smart Academic Management System
-<p> A backend-driven system designed to streamline <b>student management, attendance tracking, and performance analytics</b> for institutions. Built with a focus on <b>scalability, clean architecture, and real-world usability</b>. </p> <ul> <li> Designed RESTful APIs for managing students, batches, and attendance</li> <li> Built analytics system for tracking individual & batch performance</li> <li> Implemented secure authentication & role-based access (Admin/Student)</li> <li> Structured backend for modularity and easy scalability</li> </ul> <p> <b>Tech Stack:</b> Node.js, Express, MongoDB <br> <a href="https://intelli-x.vercel.app/">🔗 View Project</a> </p>
+| Project | Description | Tech Stack | Live Demo |
+|----------|-------------|------------|-----------|
+|  **IntelliX** | Smart academic management system for student records, attendance, batch management, analytics, and role-based access. Designed with scalable REST APIs and modular backend architecture. | Node.js, Express, MongoDB | **[View Project](https://intelli-x.vercel.app/)** |
+|  **Evalix AI** | AI-powered evaluation platform for managing tests, submissions, automated assessments, and performance analytics with a scalable educator-focused workflow. | Node.js, Express, MongoDB, AI APIs *(Planned)* | **[View Project](https://evalix-ai.vercel.app/)** |
+|  **NivaaranAI** | AI-powered civic intelligence platform featuring complaint classification, duplicate detection, sentiment analysis, priority scoring, ward-level routing, and analytics dashboards. | Next.js, TypeScript, Tailwind CSS, Supabase, FastAPI, TensorFlow, NLP | **[View Project](https://nivaaran-ai.vercel.app/)** |
+|  **SpiderChat** | Real-time Spider-Verse themed chat platform with room-based messaging, media sharing, reactions, replies, typing indicators, and dark/light mode. | Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, Socket.IO | **[View Project](https://spiderchat.vercel.app/)** |
 
-🤖 Evalix AI — AI-powered Evaluation Platform
-<p> An intelligent evaluation system that helps educators <b>analyze tests, assignments, and student performance</b> efficiently using automation. Focused on building a <b>clean admin workflow and scalable backend</b>. </p> <ul> <li> Designed system to manage tests, submissions, and evaluations</li> <li> Built analytics for performance insights</li> <li> Optimized backend flow for handling multiple students and datasets</li> <li> Focused on real-world usability for teachers and institutions</li> </ul> <p> <b>Tech Stack:</b> Node.js, Express, AI APIs (planned), MongoDB <br> <a href="https://evalix-ai.vercel.app/">🔗 View Project</a> </p>
-
-
-🚀 NivaaranAI — AI-Powered Civic Intelligence System
-<p>
-A scalable civic-tech platform that leverages <b>AI/ML and real-time data processing</b> to transform public complaints into actionable governance insights. Designed to improve prioritization, transparency, and efficiency in urban issue resolution.
-</p>
-<ul>
-<li> <b>AI-based complaint classification</b> using NLP and image recognition models</li>
-<li> <b>Real-time processing pipeline</b> with sentiment analysis and priority scoring (0–100)</li>
-<li> <b>Duplicate detection & clustering</b> using embeddings to identify high-impact issues</li>
-<li> <b>Admin dashboard</b> with live feed, analytics, and city-wide heatmap visualization</li>
-<li> <b>Ward-level routing</b> aligned with municipal structures (e.g., BMC wards)</li>
-<li> <b>AI-generated action plans</b> for structured and efficient resolution</li>
-<li> <b>Credibility & trust system</b> to detect spam/fake complaints</li>
-<li> <b>End-to-end workflow</b>: Citizen → AI Processing → Admin → Officer → Resolution</li>
-</ul>
-
-<p>
-<b>Tech Stack:</b><br>
-Next.js • TypeScript • Tailwind CSS • Supabase • FastAPI • TensorFlow/Keras • NLP Models • GeoJSON
-</p>
-
-<p>
-<a href="https://nivaaran-ai.vercel.app/">🔗 View Project</a>
-</p>
-
-🌐 SpiderChat (Real-Time Chat Platform)
-<p> A Spider-Verse themed real-time chat application focused on <b>anonymous room-based communication</b>. Designed with emphasis on <b>scalable realtime architecture and seamless user experience</b>. </p> 
-<ul> 
-<li> Built real-time chat system using Socket.IO with room-based communication</li> 
-<li> Implemented features like media sharing, message replies, reactions, and typing indicators</li> 
-<li> Designed a comic-style UI with dark/light mode and smooth animations</li> 
-</ul> 
-<p> 
-<b>Tech Stack:</b> Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, Socket.IO <br> 
-<a href="https://spiderchat.vercel.app/">🔗 View Project</a> 
-</p>
+this si so good , make it better n clean version, thats it 
 
 ---
 
