@@ -40,14 +40,10 @@ print("README optimization underway")
 ---
 
 ## About Me
-<p> I’m <b>Ayush</b> a disciplined, growth-driven developer focused on becoming <b>top-tier in backend engineering and problem solving</b>.<br> Right now, I’m in my <b>build phase</b> strengthening fundamentals, shipping projects, and pushing consistency every single day. </p> <p> I don’t just want to write code, I want to <b>understand systems deeply</b> and build things that actually matter. </p> <ul> <li>🔧 Building real-world backend systems using <b>Node.js, Express & databases</b></li> <li> Consistently grinding <b>DSA</b> to sharpen logic and problem-solving speed</li> <li> Learning how <b>scalable systems</b> work behind the scenes</li> <li> Focused on <b>discipline, consistency, and execution</b> over motivation</li> <li> Open to collaborating on <b>impactful beginner–intermediate projects</b></li> </ul>
 
+I'm **Ayush**, a software developer passionate about building reliable backend systems and understanding how modern software works beyond the code. I enjoy designing APIs, working with databases, and solving problems that require thoughtful architecture, clean implementation, and attention to detail. My goal is to build software that is scalable, maintainable, and capable of growing with real-world demands.
 
----
-
-
-## Current Focus
-<ul> <li><b>Backend Engineering</b> (REST APIs, Authentication, Databases)</li> <li><b>Data Structures & Algorithms</b> (Problem-first approach)</li> <li><b>Writing Clean, Maintainable Code</b></li> <li><b>Debugging & Understanding Edge Cases</b></li> <li><b>Building Real-world, Resume-worthy Projects</b></li> </ul>
+I'm currently deepening my expertise in **Backend Engineering**, **Data Structures & Algorithms**, and **System Design fundamentals** while continuously shipping projects that reinforce these concepts. I believe in writing clean, maintainable code, learning from every challenge, and improving through consistent execution. Whether it's optimizing an API, debugging complex edge cases, or exploring scalable system architectures, I'm always focused on becoming a better engineer one project at a time.
 
 ---
 
