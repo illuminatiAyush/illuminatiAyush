@@ -42,14 +42,14 @@ A scalable civic-tech platform that leverages <b>AI/ML and real-time data proces
 </p>
 
 <ul>
-<li>🧠 <b>AI-based complaint classification</b> using NLP and image recognition models</li>
-<li>⚡ <b>Real-time processing pipeline</b> with sentiment analysis and priority scoring (0–100)</li>
-<li>🧩 <b>Duplicate detection & clustering</b> using embeddings to identify high-impact issues</li>
-<li>📊 <b>Admin dashboard</b> with live feed, analytics, and city-wide heatmap visualization</li>
-<li>📍 <b>Ward-level routing</b> aligned with municipal structures (e.g., BMC wards)</li>
-<li>📋 <b>AI-generated action plans</b> for structured and efficient resolution</li>
-<li>🛡️ <b>Credibility & trust system</b> to detect spam/fake complaints</li>
-<li>🔄 <b>End-to-end workflow</b>: Citizen → AI Processing → Admin → Officer → Resolution</li>
+<li> <b>AI-based complaint classification</b> using NLP and image recognition models</li>
+<li> <b>Real-time processing pipeline</b> with sentiment analysis and priority scoring (0–100)</li>
+<li> <b>Duplicate detection & clustering</b> using embeddings to identify high-impact issues</li>
+<li> <b>Admin dashboard</b> with live feed, analytics, and city-wide heatmap visualization</li>
+<li> <b>Ward-level routing</b> aligned with municipal structures (e.g., BMC wards)</li>
+<li> <b>AI-generated action plans</b> for structured and efficient resolution</li>
+<li> <b>Credibility & trust system</b> to detect spam/fake complaints</li>
+<li> <b>End-to-end workflow</b>: Citizen → AI Processing → Admin → Officer → Resolution</li>
 </ul>
 
 <p>
@@ -63,9 +63,9 @@ Next.js • TypeScript • Tailwind CSS • Supabase • FastAPI • TensorFlow/
 🌐 WebVerse (Real-Time Chat Platform)
 <p> A Spider-Verse themed real-time chat application focused on <b>anonymous room-based communication</b>. Designed with emphasis on <b>scalable realtime architecture and seamless user experience</b>. </p> 
 <ul> 
-<li>⚡ Built real-time chat system using Socket.IO with room-based communication</li> 
-<li>💬 Implemented features like media sharing, message replies, reactions, and typing indicators</li> 
-<li>🎨 Designed a comic-style UI with dark/light mode and smooth animations</li> 
+<li> Built real-time chat system using Socket.IO with room-based communication</li> 
+<li> Implemented features like media sharing, message replies, reactions, and typing indicators</li> 
+<li> Designed a comic-style UI with dark/light mode and smooth animations</li> 
 </ul> 
 <p> 
 <b>Tech Stack:</b> Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, Socket.IO <br> 
@@ -76,7 +76,7 @@ Next.js • TypeScript • Tailwind CSS • Supabase • FastAPI • TensorFlow/
 
 ## 🛠 Tech Stack
 
-### Languages
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
@@ -134,6 +134,7 @@ Next.js • TypeScript • Tailwind CSS • Supabase • FastAPI • TensorFlow/
 </p>
 
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=illuminatiAyush&label=Profile%20Views&color=00FFFF&style=flat-square" />
 </p>
@@ -144,13 +145,12 @@ Next.js • TypeScript • Tailwind CSS • Supabase • FastAPI • TensorFlow/
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-
-
+---
 
 ## 💬 Quote
 > you put in the work, you get the results. it's that simple.
 
-
+---
 
 <p align="center"><a href="https://www.github.com/illuminatiAyush" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
