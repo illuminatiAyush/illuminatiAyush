@@ -111,7 +111,7 @@ Next.js • TypeScript • Tailwind CSS • Supabase • FastAPI • TensorFlow/
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=illuminatiAyush&layout=compact&theme=radical&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=illuminatiAyush&layout=compact&theme=tokyonight)"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=illuminatiAyush&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
