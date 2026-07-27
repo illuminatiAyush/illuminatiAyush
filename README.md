@@ -19,7 +19,7 @@ print("README optimization underway")
 ---
 
 ## 👋 About Me
-<p> I’m <b>Ayush</b> a disciplined, growth-driven developer focused on becoming <b>top-tier in backend engineering and problem solving</b>.<br> Right now, I’m in my <b>build phase</b> strengthening fundamentals, shipping projects, and pushing consistency every single day. </p> <p> I don’t just want to write code, I want to <b>understand systems deeply</b> and build things that actually matter. </p> <ul> <li>🔧 Building real-world backend systems using <b>Node.js, Express & databases</b></li> <li>📚 Consistently grinding <b>DSA</b> to sharpen logic and problem-solving speed</li> <li>🧠 Learning how <b>scalable systems</b> work behind the scenes</li> <li>⚡ Focused on <b>discipline, consistency, and execution</b> over motivation</li> <li>🤝 Open to collaborating on <b>impactful beginner–intermediate projects</b></li> </ul>
+<p> I’m <b>Ayush</b> a disciplined, growth-driven developer focused on becoming <b>top-tier in backend engineering and problem solving</b>.<br> Right now, I’m in my <b>build phase</b> strengthening fundamentals, shipping projects, and pushing consistency every single day. </p> <p> I don’t just want to write code, I want to <b>understand systems deeply</b> and build things that actually matter. </p> <ul> <li>🔧 Building real-world backend systems using <b>Node.js, Express & databases</b></li> <li> Consistently grinding <b>DSA</b> to sharpen logic and problem-solving speed</li> <li> Learning how <b>scalable systems</b> work behind the scenes</li> <li> Focused on <b>discipline, consistency, and execution</b> over motivation</li> <li> Open to collaborating on <b>impactful beginner–intermediate projects</b></li> </ul>
 
 
 ---
@@ -32,9 +32,10 @@ print("README optimization underway")
 
 ## 🚀 Projects
 🧠 IntelliX — Smart Academic Management System
-<p> A backend-driven system designed to streamline <b>student management, attendance tracking, and performance analytics</b> for institutions. Built with a focus on <b>scalability, clean architecture, and real-world usability</b>. </p> <ul> <li>⚙️ Designed RESTful APIs for managing students, batches, and attendance</li> <li>📊 Built analytics system for tracking individual & batch performance</li> <li>🔐 Implemented secure authentication & role-based access (Admin/Student)</li> <li>🧩 Structured backend for modularity and easy scalability</li> </ul> <p> <b>Tech Stack:</b> Node.js, Express, MongoDB <br> <a href="https://intelli-x.vercel.app/">🔗 View Project</a> </p>
+<p> A backend-driven system designed to streamline <b>student management, attendance tracking, and performance analytics</b> for institutions. Built with a focus on <b>scalability, clean architecture, and real-world usability</b>. </p> <ul> <li> Designed RESTful APIs for managing students, batches, and attendance</li> <li> Built analytics system for tracking individual & batch performance</li> <li> Implemented secure authentication & role-based access (Admin/Student)</li> <li> Structured backend for modularity and easy scalability</li> </ul> <p> <b>Tech Stack:</b> Node.js, Express, MongoDB <br> <a href="https://intelli-x.vercel.app/">🔗 View Project</a> </p>
 🤖 Evalix AI — AI-powered Evaluation Platform
-<p> An intelligent evaluation system that helps educators <b>analyze tests, assignments, and student performance</b> efficiently using automation. Focused on building a <b>clean admin workflow and scalable backend</b>. </p> <ul> <li>📝 Designed system to manage tests, submissions, and evaluations</li> <li>📈 Built analytics for performance insights</li> <li>⚡ Optimized backend flow for handling multiple students and datasets</li> <li>🎯 Focused on real-world usability for teachers and institutions</li> </ul> <p> <b>Tech Stack:</b> Node.js, Express, AI APIs (planned), MongoDB <br> <a href="https://evalix-ai.vercel.app/">🔗 View Project</a> </p>
+<p> An intelligent evaluation system that helps educators <b>analyze tests, assignments, and student performance</b> efficiently using automation. Focused on building a <b>clean admin workflow and scalable backend</b>. </p> <ul> <li> Designed system to manage tests, submissions, and evaluations</li> <li> Built analytics for performance insights</li> <li> Optimized backend flow for handling multiple students and datasets</li> <li> Focused on real-world usability for teachers and institutions</li> </ul> <p> <b>Tech Stack:</b> Node.js, Express, AI APIs (planned), MongoDB <br> <a href="https://evalix-ai.vercel.app/">🔗 View Project</a> </p>
+
 🚀 NivaaranAI — AI-Powered Civic Intelligence System
 
 <p>
@@ -60,7 +61,7 @@ Next.js • TypeScript • Tailwind CSS • Supabase • FastAPI • TensorFlow/
 <p>
 <a href="https://nivaaran-ai.vercel.app/">🔗 View Project</a>
 </p>
-🌐 WebVerse (Real-Time Chat Platform)
+🌐 SpiderChat (Real-Time Chat Platform)
 <p> A Spider-Verse themed real-time chat application focused on <b>anonymous room-based communication</b>. Designed with emphasis on <b>scalable realtime architecture and seamless user experience</b>. </p> 
 <ul> 
 <li> Built real-time chat system using Socket.IO with room-based communication</li> 
@@ -69,7 +70,7 @@ Next.js • TypeScript • Tailwind CSS • Supabase • FastAPI • TensorFlow/
 </ul> 
 <p> 
 <b>Tech Stack:</b> Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, Socket.IO <br> 
-<a href="https://the-web-verse.vercel.app/">🔗 View Project</a> 
+<a href="https://spiderchat.vercel.app/">🔗 View Project</a> 
 </p>
 
 ---
