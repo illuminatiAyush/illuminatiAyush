@@ -6,7 +6,7 @@
 
 ###  DSA • System Design • Backend Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=450&lines=Building+AI-powered+Applications;Full-Stack+Developer;Hackathon+Enthusiast;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=58A6FF&center=false&vCenter=true&width=700&lines=Engineering+Scalable+Backends;Designing+Systems+That+Actually+Scale;Building+Products+for+the+Long+Run;Clean+Architecture+%7C+Performance+%7C+Reliability" />
 
 </td>
 
