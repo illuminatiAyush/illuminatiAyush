@@ -72,6 +72,8 @@ Next.js • TypeScript • Tailwind CSS • Supabase • FastAPI • TensorFlow/
 <a href="https://the-web-verse.vercel.app/">🔗 View Project</a> 
 </p>
 
+---
+
 ## 🛠 Tech Stack
 
 ### Languages
@@ -111,7 +113,7 @@ Next.js • TypeScript • Tailwind CSS • Supabase • FastAPI • TensorFlow/
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=illuminatiAyush&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=illuminatiAyush&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img src="https://streak-stats.demolab.com/?user=illuminatiAyush&theme=radical&hide_border=true" width="48%"/>
 </p>
 
@@ -120,8 +122,16 @@ Next.js • TypeScript • Tailwind CSS • Supabase • FastAPI • TensorFlow/
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=illuminatiAyush&layout=compact&theme=radical&hide_border=true"/>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=illuminatiAyush&layout=compact&theme=radical&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=illuminatiAyush&layout=compact&theme=tokyonight)"/>
 </p>
+
+---
+
+### 🏆Github Trophies
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=illuminatiAyush&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+###
 
 ---
 
@@ -146,14 +156,13 @@ Next.js • TypeScript • Tailwind CSS • Supabase • FastAPI • TensorFlow/
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+
+
+
 ## 💬 Quote
 > you put in the work, you get the results. it's that simple.
 
-### Github Trophies
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=illuminatiAyush&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-###
+
 
 <p align="center"><a href="https://www.github.com/illuminatiAyush" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
