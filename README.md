@@ -39,7 +39,7 @@ print("README optimization underway")
 
 ---
 
-## About Me
+## About Me 👋
 
 I'm **Ayush**, a software developer passionate about building reliable backend systems and understanding how modern software works beyond the code. I enjoy designing APIs, working with databases, and solving problems that require thoughtful architecture, clean implementation, and attention to detail. My goal is to build software that is scalable, maintainable, and capable of growing with real-world demands.
 
