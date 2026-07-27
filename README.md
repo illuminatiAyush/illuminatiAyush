@@ -47,6 +47,14 @@ I'm currently deepening my expertise in **Backend Engineering**, **Data Structur
 
 ---
 
+<p align="center">
+  <a href="https://github.com/illuminatiAyush?tab=repositories&sort=stargazers" style="text-decoration: none;"><img alt="Total Stars" title="Total Stars on GitHub" src="https://img.shields.io/github/stars/illuminatiAyush?style=for-the-badge&color=FF69B4&label=Stars&logo=github&logoColor=white&labelColor=E91E63" /></a>&nbsp;
+  <a href="https://github.com/illuminatiAyush?tab=followers" style="text-decoration: none;"><img alt="GitHub Followers" title="Follow Me on GitHub" src="https://img.shields.io/github/followers/illuminatiAyush?style=for-the-badge&color=BA68C8&label=Followers&logo=github&logoColor=white&labelColor=8E24AA" /></a>&nbsp;
+  <a href="https://github.com/illuminatiAyush" style="text-decoration: none;"><img alt="Profile Views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=illuminatiAyush&color=FF69B4&style=for-the-badge&labelColor=FF69B4&logo=github&logoColor=white&label=Visitors"/></a>
+</p>
+
+---
+
 ## ⭐ Projects
 | Project | Description | Tech Stack | Live Demo |
 |----------|-------------|------------|-----------|
@@ -101,23 +109,19 @@ this si so good , make it better n clean version, thats it
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Let's Connect 
 
-<p align="center">
-  <a href="https://linkedin.com/in/singhayush08"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/></a>
-  <a href="https://x.com/s_ayush08"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="40"/></a>
-  <a href="https://youtube.com/@s_ayush08"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" width="40"/></a>
-  <a href="mailto:ayushkumarravishankarsingh@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/></a>
-  <a href="https://ayushbuilds.in"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40"/></a>
-</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/singhayush08" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
+  <a href="https://github.com/illuminatiAyush" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> &nbsp;
+  <a href="https://ayushbuilds.in/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-3a86ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> &nbsp;
+  <a href="mailto:ayushkumarravishankarsingh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"/></a> &nbsp;
+  <!-- <a href="https://discord.com/users/1377918872925241375" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" target="_blank"/></a>  -->
+</div>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/illuminatiAyush?tab=repositories&sort=stargazers" style="text-decoration: none;"><img alt="Total Stars" title="Total Stars on GitHub" src="https://img.shields.io/github/stars/illuminatiAyush?style=for-the-badge&color=FF69B4&label=Stars&logo=github&logoColor=white&labelColor=E91E63" /></a>&nbsp;
-  <a href="https://github.com/illuminatiAyush?tab=followers" style="text-decoration: none;"><img alt="GitHub Followers" title="Follow Me on GitHub" src="https://img.shields.io/github/followers/illuminatiAyush?style=for-the-badge&color=BA68C8&label=Followers&logo=github&logoColor=white&labelColor=8E24AA" /></a>&nbsp;
-  <a href="https://github.com/illuminatiAyush" style="text-decoration: none;"><img alt="Profile Views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=illuminatiAyush&color=FF69B4&style=for-the-badge&labelColor=FF69B4&logo=github&logoColor=white&label=Visitors"/></a>
-</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
