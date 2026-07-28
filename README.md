@@ -71,7 +71,7 @@ this si so good , make it better n clean version, thats it
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,git,linux,github,vscode,netlify,postman,react,mongo,bootstrap,express,nodejs&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,prisma,git,linux,github,vscode,netlify,postman,react,mongo,bootstrap,express,nodejs&perline=8" />
   </a>
 </p>
 
