@@ -2,9 +2,9 @@
 <tr>
 <td width="55%" valign="middle">
 
-# Hello, I'm Ayush Singh.
+<h1>Hello, I'm Ayush Singh.</h1>
 
-###  DSA • System Design • Backend Developer
+<h3>DSA • System Design • Backend Developer</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=58A6FF&center=false&vCenter=true&width=700&lines=Engineering+Scalable+Backends;Designing+Systems+That+Actually+Scale;Building+Products+for+the+Long+Run;Clean+Architecture+%7C+Performance+%7C+Reliability" />
 
@@ -47,11 +47,11 @@ I'm currently deepening my expertise in **Backend Engineering**, **Data Structur
 
 ---
 
-<p align="center">
-  <a href="https://github.com/illuminatiAyush?tab=repositories&sort=stargazers" style="text-decoration: none;"><img alt="Total Stars" title="Total Stars on GitHub" src="https://img.shields.io/github/stars/illuminatiAyush?style=for-the-badge&color=FF69B4&label=Stars&logo=github&logoColor=white&labelColor=E91E63" /></a>&nbsp;
-  <a href="https://github.com/illuminatiAyush?tab=followers" style="text-decoration: none;"><img alt="GitHub Followers" title="Follow Me on GitHub" src="https://img.shields.io/github/followers/illuminatiAyush?style=for-the-badge&color=BA68C8&label=Followers&logo=github&logoColor=white&labelColor=8E24AA" /></a>&nbsp;
-  <a href="https://github.com/illuminatiAyush" style="text-decoration: none;"><img alt="Profile Views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=illuminatiAyush&color=FF69B4&style=for-the-badge&labelColor=FF69B4&logo=github&logoColor=white&label=Visitors"/></a>
-</p>
+<div align="center">
+  <a href="https://github.com/illuminatiAyush?tab=repositories&sort=stargazers"><img alt="Total Stars" title="Total Stars on GitHub" src="https://img.shields.io/github/stars/illuminatiAyush?style=for-the-badge&color=FF69B4&label=Stars&logo=github&logoColor=white&labelColor=E91E63" /></a>&nbsp;
+  <a href="https://github.com/illuminatiAyush?tab=followers"><img alt="GitHub Followers" title="Follow Me on GitHub" src="https://img.shields.io/github/followers/illuminatiAyush?style=for-the-badge&color=BA68C8&label=Followers&logo=github&logoColor=white&labelColor=8E24AA" /></a>&nbsp;
+  <a href="https://github.com/illuminatiAyush"><img alt="Profile Views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=illuminatiAyush&color=FF69B4&style=for-the-badge&labelColor=FF69B4&logo=github&logoColor=white&label=Visitors"/></a>
+</div>
 
 ---
 
@@ -94,7 +94,7 @@ this si so good , make it better n clean version, thats it
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=illuminatiAyush&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img src="https://streak-stats.demolab.com/?user=illuminatiAyush&theme=radical&hide_border=true" width="48%"/>
-<img height="180em" width="386" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=illuminatiAyush&layout=compact&theme=tokyonight"/> <br>
+<img height="180" width="386" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=illuminatiAyush&layout=compact&theme=tokyonight"/> <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=illuminatiAyush&theme=radical&radius=8"/>
 
 </div>
@@ -105,7 +105,7 @@ this si so good , make it better n clean version, thats it
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=illuminatiAyush&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
-###
+<br>
 
 ---
 
@@ -115,7 +115,7 @@ this si so good , make it better n clean version, thats it
   <a href="https://www.linkedin.com/in/singhayush08" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
   <a href="https://github.com/illuminatiAyush" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> &nbsp;
   <a href="https://ayushbuilds.in/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-3a86ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> &nbsp;
-  <a href="mailto:ayushkumarravishankarsingh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"/></a> &nbsp;
+  <a href="mailto:ayushkumarravishankarsingh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp;
   <!-- <a href="https://discord.com/users/1377918872925241375" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" target="_blank"/></a>  -->
 </div>
 
@@ -149,7 +149,7 @@ this si so good , make it better n clean version, thats it
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/illuminatiAyush/illuminatiAyush/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/illuminatiAyush/illuminatiAyush/output/pacman-contribution-graph.svg">
-  <!-- <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/illuminatiAyush/illuminatiAyush/output/pacman-contribution-graph.svg"> -->
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/illuminatiAyush/illuminatiAyush/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<br>
