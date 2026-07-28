@@ -17,7 +17,7 @@
 </td>
 </tr>
 </table>
-
+<br>
 
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=6,9,10,10&text=Ayush%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend-Focused%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Building%20Scalable%20Systems&descSize=18&descAlignY=55"/>
@@ -68,7 +68,7 @@ this si so good , make it better n clean version, thats it
 ---
 
 ## 🛠 Tech Stack
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
@@ -80,24 +80,24 @@ this si so good , make it better n clean version, thats it
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/><br>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="40"/>
-</p>
+</div>
 
 ---
 
 ## 📊 GitHub Insights
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=illuminatiAyush&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img src="https://streak-stats.demolab.com/?user=illuminatiAyush&theme=radical&hide_border=true" width="48%"/>
 <img height="180em" width="386" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=illuminatiAyush&layout=compact&theme=tokyonight"/> <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=illuminatiAyush&theme=radical&radius=8"/>
 
-</p>
+</div>
 
 ---
 
@@ -136,7 +136,7 @@ this si so good , make it better n clean version, thats it
 
 ---
 
-<p align="center"><a href="https://www.github.com/illuminatiAyush" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+<!-- <p align="center"><a href="https://www.github.com/illuminatiAyush" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p> -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
