@@ -4,7 +4,7 @@
 
 <h1>Hello, I'm Ayush Singh.</h1>
 
-<h3>DSA • System Design • Backend Developer</h3>
+<h3>DSA • Backend Developer • Open to Remote Opportunities </h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=58A6FF&center=false&vCenter=true&width=700&lines=Engineering+Scalable+Backends;Designing+Systems+That+Actually+Scale;Building+Products+for+the+Long+Run;Clean+Architecture+%7C+Performance+%7C+Reliability" />
 
