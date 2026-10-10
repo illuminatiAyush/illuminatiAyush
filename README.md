@@ -63,7 +63,6 @@ I'm currently deepening my expertise in **Backend Engineering**, **Data Structur
 |  **NivaaranAI** | AI-powered civic intelligence platform featuring complaint classification, duplicate detection, sentiment analysis, priority scoring, ward-level routing, and analytics dashboards. | Next.js, TypeScript, Tailwind CSS, Supabase, FastAPI, TensorFlow, NLP | **[View Project](https://nivaaran-ai.vercel.app/)** |
 |  **SpiderChat** | Real-time Spider-Verse themed chat platform with room-based messaging, media sharing, reactions, replies, typing indicators, and dark/light mode. | Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, Socket.IO | **[View Project](https://spiderchat.vercel.app/)** |
 
-this si so good , make it better n clean version, thats it 
 
 ---
 
