@@ -76,14 +76,14 @@ I'm currently deepening my expertise in **Backend Engineering**, **Data Structur
 
 ---
 
-## GitHub Insights
+## 📊 GitHub Insights
 
 <div align="center">
-  <img width="845" src="./assets/insights-mont.svg" alt="GitHub Insights dashboard - snapshot of Ayush's GitHub stats" />
+  <img width="845" src="./assets/insights-dashboard.svg" alt="GitHub Insights dashboard - snapshot of Ayush's GitHub stats" />
   <br/>
   <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=illuminatiAyush&theme=github_dark" alt="Contribution activity - live" />
   <br/>
-  <sub>dashboard snapshot as of 31 Oct 2026 &#183; activity card is live, updates daily</sub>
+  <sub>dashboard is a dated snapshot - activity card is live and updates daily</sub>
 </div>
 
 ---
@@ -110,6 +110,16 @@ I'm currently deepening my expertise in **Backend Engineering**, **Data Structur
 
 ## 💬 Quote
 > you put in the work, you get the results. it's that simple.
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <img width="845" src="./assets/contribution-snake.svg" alt="Snake moving through Ayush's GitHub contribution graph" />
+  <br/>
+  <sub>real contribution data &#183; snapshot as of 31 Oct 2026</sub>
+</div>
 
 ---
 
