@@ -79,8 +79,8 @@ I'm currently deepening my expertise in **Backend Engineering**, **Data Structur
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=illuminatiAyush&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img src="https://streak-stats.demolab.com/?user=illuminatiAyush&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=illuminatiAyush&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=illuminatiAyush&theme=radical&hide_border=true&disable_animations=true" width="48%"/>
 <img height="180" width="386" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=illuminatiAyush&layout=compact&theme=tokyonight"/> <br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=illuminatiAyush&theme=radical"/>
 
