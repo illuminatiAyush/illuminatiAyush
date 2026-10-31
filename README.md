@@ -41,9 +41,9 @@ print("README optimization underway")
 
 ## About Me 👋
 
-Third-year Computer Engineering student in Mumbai, focused on backend engineering: APIs and the databases behind them. I build mostly with Node.js, Express and FastAPI, using PostgreSQL, MongoDB and Supabase. I'm strengthening my DSA and system design fundamentals.
+I'm **Ayush**, a software developer passionate about building reliable backend systems and understanding how modern software works beyond the code. I enjoy designing APIs, working with databases, and solving problems that require thoughtful architecture, clean implementation, and attention to detail. My goal is to build software that is scalable, maintainable, and capable of growing with real-world demands.
 
-Other projects include IntelliX (academic management) and NivaaranAI (civic grievances). Open to internships and remote backend work.
+I'm currently deepening my expertise in **Backend Engineering**, **Data Structures & Algorithms**, and **System Design fundamentals** while continuously shipping projects that reinforce these concepts. I believe in writing clean, maintainable code, learning from every challenge, and improving through consistent execution. Whether it's optimizing an API, debugging complex edge cases, or exploring scalable system architectures, I'm always focused on becoming a better engineer one project at a time.
 
 ---
 
@@ -69,16 +69,9 @@ Other projects include IntelliX (academic management) and NivaaranAI (civic grie
 ### 🔧 Languages & Tools
 
 <p align="center">
-  <b>Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp" alt="Languages" /><br/>
-  <b>Frontend</b><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="Frontend" /><br/>
-  <b>Backend</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,socketio" alt="Backend" /><br/>
-  <b>Data &amp; ORM</b><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,prisma" alt="Data and ORM" /><br/>
-  <b>Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render,linux" alt="Tools" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,prisma,git,linux,github,vscode,netlify,postman,react,mongo,bootstrap,express,nodejs&perline=8" />
+  </a>
 </p>
 
 ---
@@ -86,7 +79,7 @@ Other projects include IntelliX (academic management) and NivaaranAI (civic grie
 ## GitHub Insights
 
 <div align="center">
-  <img width="845" src="./assets/insights-mont-v2.svg" alt="GitHub Insights dashboard - snapshot of Ayush's GitHub stats" />
+  <img width="845" src="./assets/insights-mont-v3.svg" alt="GitHub Insights dashboard - snapshot of Ayush's GitHub stats" />
   <br/>
   <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=illuminatiAyush&theme=github_dark" alt="Contribution activity - live" />
   <br/>
@@ -135,4 +128,3 @@ Other projects include IntelliX (academic management) and NivaaranAI (civic grie
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
-
