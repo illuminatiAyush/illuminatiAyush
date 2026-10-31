@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="845" height="462" viewBox="0 0 845 462">
+  <defs>
+    <linearGradient id="ringGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#39d353"/>
+      <stop offset="1" stop-color="#2ea043"/>
+    </linearGradient>
+    <clipPath id="langClip">
+      <rect x="36" y="366" width="773" height="16" rx="8"/>
+    </clipPath>
+  </defs>
+
+  <rect x="0.75" y="0.75" width="843.5" height="460.5" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+
+  <circle cx="28" cy="23" r="6" fill="#ff5f57"/>
+  <circle cx="48" cy="23" r="6" fill="#febc2e"/>
+  <circle cx="68" cy="23" r="6" fill="#28c840"/>
+  <text x="92" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#8b949e">ayush@github: ~/insights</text>
+  <text x="813" y="28" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#39d353">&#9679; SNAPSHOT &#183; 31 OCT 2026</text>
+  <line x1="0" y1="46" x2="845" y2="46" stroke="#21262d"/>
+
+  <text x="36" y="102" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#f0f6fc">AYUSH SINGH</text>
+  <text x="36" y="128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13"><tspan fill="#39d353">@illuminatiAyush</tspan><tspan fill="#8b949e"> &#183; backend developer</tspan></text>
+  <text x="36" y="150" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8b949e">Mumbai, IN &#183; building waymio.online</text>
+
+  <g>
+    <rect x="36" y="170" width="181" height="68" rx="10" fill="#161b22" stroke="#21262d"/>
+    <text x="52" y="202" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#39d353">12</text>
+    <text x="52" y="222" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8b949e">STARS EARNED</text>
+  </g>
+  <g>
+    <rect x="231" y="170" width="181" height="68" rx="10" fill="#161b22" stroke="#21262d"/>
+    <text x="247" y="202" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#58a6ff">244</text>
+    <text x="247" y="222" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8b949e">COMMITS &#183; 2026</text>
+  </g>
+  <g>
+    <rect x="426" y="170" width="181" height="68" rx="10" fill="#161b22" stroke="#21262d"/>
+    <text x="442" y="202" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#d2a8ff">758</text>
+    <text x="442" y="222" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8b949e">CONTRIBUTIONS &#183; 365D</text>
+  </g>
+  <g>
+    <rect x="36" y="252" width="181" height="68" rx="10" fill="#161b22" stroke="#21262d"/>
+    <text x="52" y="284" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#39d353">8</text>
+    <text x="52" y="304" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8b949e">PUBLIC REPOS</text>
+  </g>
+  <g>
+    <rect x="231" y="252" width="181" height="68" rx="10" fill="#161b22" stroke="#21262d"/>
+    <text x="247" y="284" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#58a6ff">13</text>
+    <text x="247" y="304" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8b949e">REPOS CONTRIBUTED</text>
+  </g>
+  <g>
+    <rect x="426" y="252" width="181" height="68" rx="10" fill="#161b22" stroke="#21262d"/>
+    <text x="442" y="284" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#d2a8ff">3</text>
+    <text x="442" y="304" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8b949e">PULL REQUESTS</text>
+  </g>
+
+  <path d="M700 118c5 9 13 14 13 24a13 13 0 1 1-26 0c0-10 8-15 13-24z" fill="#f0883e"/>
+  <path d="M700 136c2.5 4 5.5 6 5.5 10.5a5.5 5.5 0 1 1-11 0c0-4.5 3-6.5 5.5-10.5z" fill="#ffd33d"/>
+  <circle cx="700" cy="224" r="54" fill="none" stroke="#21262d" stroke-width="12"/>
+  <circle cx="700" cy="224" r="54" fill="none" stroke="url(#ringGrad)" stroke-width="12" stroke-linecap="round" stroke-dasharray="109.4 229.9" transform="rotate(-90 700 224)"/>
+  <text x="700" y="220" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#f0f6fc">10</text>
+  <text x="700" y="242" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8b949e">DAY STREAK</text>
+  <text x="700" y="308" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#8b949e">longest 31d &#183; total 757</text>
+
+  <text x="36" y="356" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="2" fill="#8b949e">MOST USED LANGUAGES</text>
+  <g clip-path="url(#langClip)">
+    <rect x="36" y="366" width="593.5" height="16" fill="#f1e05a"/>
+    <rect x="629.5" y="366" width="148.8" height="16" fill="#3178c6"/>
+    <rect x="778.3" y="366" width="20.6" height="16" fill="#3572a5"/>
+    <rect x="798.9" y="366" width="5.5" height="16" fill="#563d7c"/>
+    <rect x="804.4" y="366" width="4.6" height="16" fill="#336791"/>
+  </g>
+
+  <circle cx="40" cy="404" r="4" fill="#f1e05a"/><text x="52" y="408" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#c9d1d9">JavaScript 76.8%</text>
+  <circle cx="190" cy="404" r="4" fill="#3178c6"/><text x="202" y="408" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#c9d1d9">TypeScript 19.3%</text>
+  <circle cx="344" cy="404" r="4" fill="#3572a5"/><text x="356" y="408" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#c9d1d9">Python 2.7%</text>
+  <circle cx="470" cy="404" r="4" fill="#563d7c"/><text x="482" y="408" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#c9d1d9">CSS 0.7%</text>
+  <circle cx="586" cy="404" r="4" fill="#336791"/><text x="598" y="408" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#c9d1d9">PLpgSQL 0.6%</text>
+
+  <text x="36" y="444" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#6e7681">snapshot of public GitHub data &#183; streak = consecutive days with contributions</text>
+  <text x="813" y="444" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#6e7681">github.com/illuminatiAyush</text>
+</svg>
