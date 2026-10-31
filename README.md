@@ -79,11 +79,13 @@ I'm currently deepening my expertise in **Backend Engineering**, **Data Structur
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=illuminatiAyush&theme=tokyonight"/>
-  <img src="https://streak-stats.demolab.com/?user=illuminatiAyush&theme=radical&hide_border=true&disable_animations=true" width="48%"/>
-<img height="180" width="386" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=illuminatiAyush&layout=compact&theme=tokyonight"/> <br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=illuminatiAyush&theme=radical"/>
-
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=illuminatiAyush&theme=tokyonight" alt="GitHub Stats" />
+  &nbsp;
+  <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=illuminatiAyush&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/>
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=illuminatiAyush&theme=tokyonight" alt="Contribution Activity" />
+  <br/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=illuminatiAyush&theme=tokyonight&hide_border=true&disable_animations=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -108,16 +110,6 @@ I'm currently deepening my expertise in **Backend Engineering**, **Data Structur
 
 ---
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
----
-
 ## 💬 Quote
 > you put in the work, you get the results. it's that simple.
 
@@ -132,11 +124,3 @@ I'm currently deepening my expertise in **Backend Engineering**, **Data Structur
 
 
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/illuminatiAyush/illuminatiAyush/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/illuminatiAyush/illuminatiAyush/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/illuminatiAyush/illuminatiAyush/output/pacman-contribution-graph.svg">
-</picture>
-
-<br>
