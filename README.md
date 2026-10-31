@@ -79,13 +79,11 @@ I'm currently deepening my expertise in **Backend Engineering**, **Data Structur
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=illuminatiAyush&theme=tokyonight" alt="GitHub Stats" />
-  &nbsp;
-  <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=illuminatiAyush&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="845" src="./assets/insights-dashboard.svg" alt="GitHub Insights dashboard - snapshot of Ayush's GitHub stats" />
   <br/>
-  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=illuminatiAyush&theme=tokyonight" alt="Contribution Activity" />
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=illuminatiAyush&theme=github_dark" alt="Contribution activity - live" />
   <br/>
-  <img height="170" src="https://streak-stats.demolab.com/?user=illuminatiAyush&theme=tokyonight&hide_border=true&disable_animations=true" alt="GitHub Streak" />
+  <sub>dashboard is a dated snapshot - activity card is live and updates daily</sub>
 </div>
 
 ---
@@ -120,7 +118,6 @@ I'm currently deepening my expertise in **Backend Engineering**, **Data Structur
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
-
 
 
 
