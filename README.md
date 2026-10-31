@@ -79,11 +79,11 @@ I'm currently deepening my expertise in **Backend Engineering**, **Data Structur
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img width="845" src="./assets/insights-dashboard.svg" alt="GitHub Insights dashboard - snapshot of Ayush's GitHub stats" />
+  <img width="845" src="./assets/insights-dashboard.svg?v=2" alt="GitHub Insights dashboard - snapshot of Ayush's GitHub stats" />
   <br/>
   <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=illuminatiAyush&theme=github_dark" alt="Contribution activity - live" />
   <br/>
-  <sub>dashboard is a dated snapshot - activity card is live and updates daily</sub>
+  <sub>dashboard snapshot as of 31 Oct 2026 &#183; activity card is live, updates daily</sub>
 </div>
 
 ---
@@ -118,6 +118,5 @@ I'm currently deepening my expertise in **Backend Engineering**, **Data Structur
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
-
 
 
